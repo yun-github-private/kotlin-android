@@ -1,2 +1,2 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="yun.happy.factory.lib"/>
+<manifest package="android"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
