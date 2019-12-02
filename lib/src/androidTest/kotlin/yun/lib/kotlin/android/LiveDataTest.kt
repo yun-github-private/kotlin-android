@@ -1,4 +1,4 @@
-package yun.happy.lib.kotlin.android
+package yun.lib.kotlin.android
 
 import android.arch.lifecycle.MutableLiveData
 import android.support.test.runner.AndroidJUnit4
